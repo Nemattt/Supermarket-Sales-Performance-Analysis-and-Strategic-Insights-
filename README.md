@@ -12,9 +12,11 @@ Dalam proyek ini, dilakukan eksplorasi data, visualisasi, serta analisis untuk m
 # **📚 Tools**
 Python (Pandas, Matplotlib, Seaborn)
 
-👨‍💻 Penulis
+# **👨‍💻 Penulis**
 Nemat Mukti Putra
 Data Enthusiast | Data Analyst | 
 
 GitHub: https://github.com/Nemattt 
+
+
 LinkedIn: linkedin.com/in/nematmuktiputra  
