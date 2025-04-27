@@ -19,4 +19,4 @@ Data Enthusiast | Data Analyst |
 GitHub: https://github.com/Nemattt 
 
 
-LinkedIn: linkedin.com/in/nematmuktiputra  
+LinkedIn: https://linkedin.com/in/nematmuktiputra  
