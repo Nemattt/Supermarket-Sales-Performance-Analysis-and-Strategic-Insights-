@@ -9,5 +9,5 @@ Dalam proyek ini, dilakukan eksplorasi data, visualisasi, serta analisis untuk m
 4. Rata-rata pendapatan per transaksi
 5. Insight bisnis untuk pengambilan keputusan
 
-# **📚 Tools dan Teknologi**
+# **📚 Tools**
 Python (Pandas, Matplotlib, Seaborn)
